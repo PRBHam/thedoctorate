@@ -42,3 +42,5 @@ FWD50 - Ottawa 20191106 https://fwd50.com/
 - ODI summit
 - Personal Democracy Forum
 - Govtech Summit
+- VCSSCamp
+- barcampNFP 
